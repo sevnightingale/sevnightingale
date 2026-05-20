@@ -1,23 +1,39 @@
 ### Hey, I'm Sev.
 
-I build AI-native products — autonomous trading agents, natural language interfaces,
-and tools that put LLMs to work on real problems.
+I build applied AI — autonomous agents that ship to production, natural-language
+interfaces, and full-stack systems that put LLMs to work on real problems with
+real stakes.
 
-**What I'm working on:**
+**Current work:**
 
-- **[ggbots](https://ggbots.ai)** — AI trading platform where users write strategies in
-  plain English and autonomous agents execute them. Three-agent architecture (extraction,
-  decision, trading), multi-exchange support, real-time market intelligence pipeline.
-  Python · Next.js · PostgreSQL · Supabase
+- **[ggbots](https://ggbots.ai)** — Autonomous AI trading platform. Users
+  describe strategies in plain English; a frontier-model decision agent runs
+  them 24/7 on Hyperliquid. 360+ users, 22 paying, 8,400+ trades, $132K+
+  cumulative P&L. Solo build.
 
-- **[Treekipedia](https://github.com/SilviProtocol/silvi/tree/master/treekipedia)** —
-  Open-source reforestation knowledge base. AI-enriched species data for the Silvi protocol.
+- **hermes-trader** — Open-source autonomous AI trading agent forked from
+  hermes-agent. Self-improving, always learning from its own performance, order
+  of magnitude more capable than ggbots. Active build.
 
-- **NatureDataLab** — Environmental data network wesbsite.
+- **Sebastian** — Personal AI butler running 24/7 on a VPS. Seven daily
+  heartbeats, MCP integrations across Google Workspace, Notion, Playwright, X.
+  Maintains three production sites autonomously. Claude Agent SDK + Bun +
+  Python.
 
-- **Mind Meld** — Expert survey and consensus tool for research networks.
+- **[Treekipedia](https://github.com/SilviProtocol/silvi/tree/master/treekipedia)**
+  — Open-source reforestation knowledge base. 67K+ species, 95M+ tree
+  observations from 13+ biodiversity databases, AI-enriched with a 110-field
+  ontology.
 
-**Stack:** Python, TypeScript, Next.js, FastAPI, PostgreSQL, Supabase, LLM integrations
-(OpenAI, Anthropic, DeepSeek), crypto/DeFi, Vercel, Docker
+**Also shipped:** NatureDataLab · Mind Meld · Westlook Press.
 
-**How I work:** I vibecode — Claude Code is my daily driver. I have learned how to plan, architect, and fully scope development work with AI so that execution is accurate and elegant. I ship production code with real users, 100% vibecoded.
+**Stack:** Python · TypeScript · Next.js · FastAPI · PostgreSQL · Supabase ·
+Redis · Hyperliquid · Vercel · Claude Agent SDK · LangChain · MCP · RAG ·
+vector databases · multi-provider LLM orchestration (Anthropic, OpenAI, xAI,
+DeepSeek, OpenRouter)
+
+**How I work:** I vibecode. Claude Code is my daily driver. I plan, architect,
+and scope development with AI so execution is accurate and elegant. I ship
+production code with real users, 100% vibecoded.
+
+**Portfolio:** [sev.nightingale.business](https://sev.nightingale.business)
