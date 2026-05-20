@@ -27,10 +27,12 @@ real stakes.
 
 **Also shipped:** NatureDataLab · Mind Meld · Westlook Press.
 
-**Stack:** Python · TypeScript · Next.js · FastAPI · PostgreSQL · Supabase ·
-Redis · Hyperliquid · Vercel · Claude Agent SDK · LangChain · MCP · RAG ·
-vector databases · multi-provider LLM orchestration (Anthropic, OpenAI, xAI,
-DeepSeek, OpenRouter)
+**Technologies:**
+
+<a href="#"><img src="https://skillicons.dev/icons?i=ts,py,nextjs,react,fastapi,bun,postgres,supabase,redis,vercel,tailwind,docker,linux,solidity" /></a>
+
+Plus: Claude Agent SDK · LangChain · MCP · RAG · vector databases ·
+multi-provider LLM orchestration (Anthropic, OpenAI, xAI, DeepSeek, OpenRouter)
 
 **How I work:** I vibecode. Claude Code is my daily driver. I plan, architect,
 and scope development with AI so execution is accurate and elegant. I ship
